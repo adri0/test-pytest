@@ -1,0 +1,1 @@
+Sample Python project structure that reproduces the bug [#18030](https://github.com/microsoft/vscode-python/issues/18030) on [VS Code's Python extension](https://github.com/microsoft/vscode-python).
